@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shriniwas</h1>
 <h3 align="center">Hello! My name is Shriniwas Tiwari and I am a DevOps⚙️ enthusiast. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.</h3>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriniwas-devops&" alt="shriniwas-devops" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriniwas-devops&label=Profile%20views&color=0e75b6&style=flat" alt="shriniwas-devops" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriniwas-devops" alt="shriniwas-devops" /></a> </p>
